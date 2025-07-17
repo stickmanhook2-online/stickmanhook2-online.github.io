@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://https://stickmanhook2-online.github.io/sitemap.xml
